@@ -79,5 +79,5 @@ Calculate OTP from a seed as secureString (Default Digits = 6, Time Step Interva
 
 ## Credits
 
-Reto Schelbert : Gravitir AG
-Jon Friesen : TOTP powershell function <https://gist.github.com/jonfriesen/234c7471c3e3199f97d5>
+- Reto Schelbert : Gravitir AG
+- Jon Friesen : TOTP powershell function <https://gist.github.com/jonfriesen/234c7471c3e3199f97d5>
