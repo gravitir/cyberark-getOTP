@@ -79,6 +79,8 @@ Calculate OTP from a seed as secureString (Default Digits = 6, Time Step Interva
 
 ## TOTP Connection Component 
 Check also the PSM-TOTPToken from CyberArk to add as additional PSM RDP Connection which calculates the TOTP in the RDP session.
+https://cyberark-customers.force.com/mplace/s/#a352J000000GPw5QAG-a392J000002hZX8QAM
+
 Add this as connection component to the MFA-TOTP Platform or download the MFA-TOTP_withPSMTOTP Platform directly.
 
 ## Credits
